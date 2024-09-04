@@ -27,17 +27,17 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="50" width="50" /></a>&nbsp;
+<a href="https://twitter.com/BhoreShivam07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shivam_bhore" height="50" width="50" /></a>&nbsp;
   <img width="12" />
-<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="50" width="50" /></a>&nbsp;
+<a href="https://linkedin.com/in/BhoreShivam07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="50" width="50" /></a>&nbsp;
   <img width="12" />
-<a href="http://discord.com/users/apoorv#4040" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="50" width="50" /></a>&nbsp;
+<a href="https://discord.com/channels/@me/1217549985831325761" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="50" width="50" /></a>&nbsp;
   <img width="12" />
-<a href="https://instagram.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="apoorv__tyagi" height="50" width="50" /></a>&nbsp;
+<a href="https://instagram.com/shivm_sb_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="apoorv__tyagi" height="50" width="50" /></a>&nbsp;
   <img width="12" />
-<a href="https://gmail.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="apoorv__tyagi" height="50" width="50" /></a>&nbsp;
+<a href="https://gmail.com/ShivamBhore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="apoorv__tyagi" height="50" width="50" /></a>&nbsp;
   <img width="12" />
-<a href="https://facebook.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="apoorv__tyagi" height="50" width="50" /></a>&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100005064317524" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="apoorv__tyagi" height="50" width="50" /></a>&nbsp;
 
 ##
 <h3 align="center"> Tech I work on :</h3>
@@ -86,4 +86,7 @@
  
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/YourTwitterHandle)
+
 
