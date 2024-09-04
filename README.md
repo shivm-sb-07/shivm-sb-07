@@ -1,6 +1,6 @@
 # Hi i'm Shivam Bhore ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> 
 
-![Shivam Bhore](https://raw.githubusercontent.com/shivm-sb-07/shivm-sb-07/master/back2.jpg)
+![Shivam Bhore](https://raw.githubusercontent.com/shivm-sb-07/shivm-sb-07/master/back4.jpg)
 
 <h3 align="center">👨‍💻 Passionate about coding. Open to collaborations and contributing to open-source projects. Let's connect and build and build cool stuff together! 🚀</h3>
 
